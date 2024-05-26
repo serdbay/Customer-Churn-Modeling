@@ -1,5 +1,5 @@
 # Customer Churn Modeling of Telco Company Customer Dataset
-Customer churn analysis is when an existing customer, user, subscriber, or any kind of return client stops doing business or ends the relationship with a company.
+Customer churn analysis is an important topic and when an existing customer, user, subscriber, or any kind of return client stops doing business or ends the relationship with a company.
 
 In this project we will investigate the Telco company customer dataset and would like to get some insights about the customers. 
 
@@ -12,7 +12,7 @@ Our objective in here is to analyze this customer data and develop a model that 
 * [Contact](#contact)
 
 ## General Information
-The churn analysis as the whole of analytical studies on ìa customerî, ìa product or serviceî, and ìthe probability of abandonmentî.
+The churn analysis as the whole of analytical studies on ‚Äúa customer‚Äù, ‚Äúa product or service‚Äù, and ‚Äúthe probability of abandonment‚Äù.
 
 For this project, we will be analysing and then modeling the Telco company customer dataset in order to understand the results, and we will try to check our data model. 
 
